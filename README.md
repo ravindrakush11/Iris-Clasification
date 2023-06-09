@@ -1,4 +1,6 @@
 # Iris-Clasification
+**Problem:** Classifying the species (Setosa, Virginica, Versicolor) of the flowers on the basis given input measurement such as sepal length, sepal width, petal length, and petal width.
+
 ![image](https://github.com/ravindrakush11/Iris-Clasification/assets/94731464/94ea2be5-99c2-44c3-ad6d-4be462cd7685)
 
 The Iris dataset is a popular and widely used dataset in the field of machine learning and data analysis. It contains measurements of various attributes of different species of Iris flowers. This dataset was first introduced by the British statistician and biologist Ronald Fisher in 1936 and has since become a standard benchmark for classification algorithms.
